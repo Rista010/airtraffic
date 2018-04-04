@@ -1,0 +1,13 @@
+.Layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    padding: 10px 1em;
+    background: orange;
+    color: white;
+    font-size: 2em;
+}
